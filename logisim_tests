@@ -1,0 +1,7 @@
+<comp lib="12" loc="(870,210)" name="chaining"/>
+<comp lib="12" loc="(860,260)" name="tregister"/>
+<comp lib="12" loc="(1050,230)" name="fsmtable"/>
+<comp lib="12" loc="(1050,230)" name="fsmtable"/>
+<comp lib="12" loc="(1050,230)" name="paritygen"/>
+<comp lib="12" loc="(1050,230)" name="sequencecheck"/>
+<comp lib="12" loc="(1060,180)" name="vendingmachine"/>
